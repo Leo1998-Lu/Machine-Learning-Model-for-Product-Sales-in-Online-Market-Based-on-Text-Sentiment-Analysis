@@ -6,4 +6,4 @@
 
 ![image](https://github.com/Leo1998-Lu/Machine-Learning-Model-for-Product-Sales-in-Online-Market-Based-on-Text-Sentiment-Analysis/blob/master/%E7%BE%8E%E8%B5%9BM%E5%A5%96%E7%BB%93%E6%9E%9C.jpg)
 
-**对于结果还要抱怨两句，虽然美赛官网也说没有分队长的区别，但是当时学校报名我是以队长身份上报，然后指导老师拿着信息去官网报名，居然给我中间那么尴尬的位置！而且好像除了姓和名完全都倒了！非常生气且无奈！**
+**对于结果还要抱怨两句，虽然美赛官网也说没有分队长的区别，但是当时学校报名我是以队长身份上报，然后指导老师拿着信息去官网报名，居然给我中间那么尴尬的位置！而且好像所有成员姓和名完全都倒了！非常生气且无奈！**
